@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "motelName": "Leman Locke",
+        "motelDesc": "Londra’nın Shoreditch bölgesinde, Londra Kulesi’ne ve Brick Lane’e 900 metre uzaklıkta yer alan Leman Locke, ücretsiz WiFi erişimine sahip şık konaklama birimleriyle hizmet verir.",
+        "motelLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.9246165838863!2d-0.07306288434269372!3d51.51459897963631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876034aa6e682df%3A0xd2ddf8e1209d2981!2sLeman%20Locke%2C%20Aldgate!5e0!3m2!1str!2str!4v1635458061162!5m2!1str!2str",
+        "motelPrice": {
+            "adult": 80,
+            "child": 20
+        },
+        "motelRating": 4.2,
+        "motelImage": {
+            "1": "@/assets/images/hotels/1/1.jpg",
+            "2": "@/assets/images/hotels/1/2.jpg",
+            "3": "@/assets/images/hotels/1/3.jpg"
+        },
+        "motelService": {}
+    },
+    {
+        "id": 2,
+        "motelName": "Lyall Apartment Hotel",
+        "motelDesc": "Londra’nın Shoreditch bölgesinde, Londra Kulesi’ne ve Brick Lane’e 900 metre uzaklıkta yer alan Leman Locke, ücretsiz WiFi erişimine sahip şık konaklama birimleriyle hizmet verir.",
+        "motelLocation": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.5604739940572!2d-0.0032798842322091875!3d51.447865279625454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876020b0e8ab429%3A0x23ebff33e0684075!2sLyall%20Apartment%20Hotel!5e0!3m2!1str!2str!4v1635619354711!5m2!1str!2str",
+        "motelPrice": {
+            "adult": 60,
+            "child": 12
+        },
+        "motelRating": 3.8,
+        "motelImage": {
+            "1": "@/assets/images/hotels/2/1.jpg",
+            "2": "@/assets/images/hotels/2/2.jpg",
+            "3": "@/assets/images/hotels/2/3.jpg"
+        },
+        "motelService": {}
+    }
+]
+
+
