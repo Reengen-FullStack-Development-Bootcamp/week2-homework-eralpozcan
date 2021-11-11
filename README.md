@@ -1,6 +1,6 @@
 # Vue-Otel Reservation
 
- [Project Link](https://cli.vuejs.org/config/)
+ [Project Link](hotel-reserve.vercel.app)
 
 
 # Features
